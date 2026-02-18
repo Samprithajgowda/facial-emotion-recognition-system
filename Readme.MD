@@ -166,21 +166,6 @@ The dominant emotion is selected using maximum probability from the prediction d
 
 This project demonstrates full-stack machine learning integration, real-time inference pipelines, and practical environment configuration for deploying deep learning models in web applications.
 
----
-## 📸 Demo
-
-
-### 🔴 Live Emotion Detection
-
-![Live Detection](assets/live_detection1.png)
-
-### 🏗 System Architecture
-
-![Architecture](assets/architecture.png)
-
-### ⚙ Backend API
-
-![Backend API](assets/live_detection2.png)
 
 ## 👩‍💻 Author  
 
