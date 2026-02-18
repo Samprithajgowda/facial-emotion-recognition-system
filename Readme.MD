@@ -169,7 +169,6 @@ This project demonstrates full-stack machine learning integration, real-time inf
 ---
 ## 📸 Demo
 
-## 📸 Demo
 
 ### 🔴 Live Emotion Detection
 
